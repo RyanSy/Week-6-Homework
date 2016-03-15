@@ -1,0 +1,28 @@
+body {
+	font-family: Helvetica;
+}
+
+.button {
+	cursor: pointer;
+	margin: 5px;
+}
+
+.button:hover {
+	background-color: black;
+	color: white;
+}
+
+.tv-shows {
+	cursor: pointer;
+	margin: 5px;
+}
+
+.tv-shows:hover {
+	background-color: black;
+	color: white;
+}
+img {
+	height: 200px;
+	width: 200px;
+	cursor: pointer;
+}
